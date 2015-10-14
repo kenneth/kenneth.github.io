@@ -2,12 +2,12 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://kenneth.github.io
+title: 风の记忆
+subtitle: Kenneth开发笔记
+author: Kenneth
 simple_search: https://www.google.com/search
-description:
+description: 相见争如不见，有情还似无情。笙歌散后酒微醒，深院月明人静。
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
