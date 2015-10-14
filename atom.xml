@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[风の记忆]]></title>
+  <link href="http://kenneth.github.io/atom.xml" rel="self"/>
+  <link href="http://kenneth.github.io/"/>
+  <updated>2015-10-14T18:30:04+08:00</updated>
+  <id>http://kenneth.github.io/</id>
+  <author>
+    <name><![CDATA[Kenneth]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[How to Write Shell]]></title>
+    <link href="http://kenneth.github.io/blog/2015/10/14/how-to-write-shell/"/>
+    <updated>2015-10-14T18:27:42+08:00</updated>
+    <id>http://kenneth.github.io/blog/2015/10/14/how-to-write-shell</id>
+    <content type="html"><![CDATA[<h1>学习如何写Shell</h1>
+]]></content>
+  </entry>
+  
+</feed>
